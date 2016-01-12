@@ -1,5 +1,5 @@
 ## cs100 - open source software construction
-
+testing
 This is a course on [how to be a hacker](http://www.catb.org/esr/faqs/hacker-howto.html).
 Being a hacker [means a lot of things](http://www.catb.org/jargon/html/H/hacker.html).
 It means:
